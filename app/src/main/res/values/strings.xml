@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MODE PAKSA 4G</string>
+    <string name="internet_speedtest">INTERNET SPEEDTEST</string>
+    <string name="phone_information">PHONE INFORMATION</string>
+    <string name="_4g_only_switcher">4G ONLY SWITCHER</string>
+    <string name="koker_app">Koker APP</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="button_3">Button 3</string>
+    <string name="Kelompok_Koker" />
+</resources>
